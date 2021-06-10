@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.f2755cbc.chunk.css",
-    "main.js": "/static/js/main.64b9fafa.chunk.js",
-    "main.js.map": "/static/js/main.64b9fafa.chunk.js.map",
+    "main.js": "/static/js/main.a83906db.chunk.js",
+    "main.js.map": "/static/js/main.a83906db.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b83279d6.js",
     "runtime-main.js.map": "/static/js/runtime-main.b83279d6.js.map",
-    "static/js/2.593a7480.chunk.js": "/static/js/2.593a7480.chunk.js",
-    "static/js/2.593a7480.chunk.js.map": "/static/js/2.593a7480.chunk.js.map",
+    "static/js/2.e33f4675.chunk.js": "/static/js/2.e33f4675.chunk.js",
+    "static/js/2.e33f4675.chunk.js.map": "/static/js/2.e33f4675.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.f2755cbc.chunk.css.map": "/static/css/main.f2755cbc.chunk.css.map",
-    "static/js/2.593a7480.chunk.js.LICENSE.txt": "/static/js/2.593a7480.chunk.js.LICENSE.txt",
+    "static/js/2.e33f4675.chunk.js.LICENSE.txt": "/static/js/2.e33f4675.chunk.js.LICENSE.txt",
     "static/media/Ismael_Quicio_Ortega_CV.93c8e776.pdf": "/static/media/Ismael_Quicio_Ortega_CV.93c8e776.pdf",
     "static/media/cheeto.51bfb04e.png": "/static/media/cheeto.51bfb04e.png",
     "static/media/fotomia.724a3108.jpg": "/static/media/fotomia.724a3108.jpg",
@@ -17,8 +17,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b83279d6.js",
-    "static/js/2.593a7480.chunk.js",
+    "static/js/2.e33f4675.chunk.js",
     "static/css/main.f2755cbc.chunk.css",
-    "static/js/main.64b9fafa.chunk.js"
+    "static/js/main.a83906db.chunk.js"
   ]
 }
